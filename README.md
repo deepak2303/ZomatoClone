@@ -37,7 +37,7 @@ Zomato is an Indian multinational restaurant aggregator and food delivery compan
 ### Setup
 
 
-The project repository can be found in [GitHub link](https://github.com/arun5g/ZomatoClone.git) or just clone the project using this command. 
+The project repository can be found in [GitHub link](https://github.com/arun5g/ZomatoClone) or just clone the project using this command. 
 
 
 ## Open with live server 

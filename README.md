@@ -1,6 +1,6 @@
-# Zomato
 
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Zomato_logo.png" alt="logo" align="right" width="70px" height="70px"/>
 
 <h1 align="center">Zomato Clone</h1> 
 <br />

@@ -22,7 +22,8 @@
 
 
 ## 🚀 Features
-- Static Page 
+- Static Page
+- Zomato can be downloaded via Google PlayStore or Apple AppStore
 
 <br/>
 

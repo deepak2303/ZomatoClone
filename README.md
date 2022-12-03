@@ -17,7 +17,7 @@
     <a href="#Getting-Started">Getting Started</a> &#10023; <a href="#Setup">Setup</a> &#10023;    
     <a href="#Contributors">Contributors</a> &#10023;
   </p>
-  Zomato is an Indian multinational restaurant aggregator and food delivery company founded by Deepinder Goyal and Pankaj Chaddah in 2008.
+  Zomato is an Indian multinational restaurant aggregator and food delivery company.
 <br />
 
 

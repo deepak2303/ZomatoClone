@@ -31,8 +31,8 @@
 
 ## Getting Started
 
-This project was built using Basic HTML , CSS and JAVASCRIPT.
-Zomato is an Indian multinational restaurant aggregator and food delivery company founded by Deepinder Goyal and Pankaj Chaddah in 2008.
+This project was built using Basic HTML and CSS.
+Zomato is an Indian multinational restaurant aggregator and food delivery company.
 
 
 ### Setup
